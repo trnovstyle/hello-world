@@ -1,2 +1,5 @@
 # hello-world
-my first git hub repository
+
+Hello!
+
+Simon here. I like traffic moddeling, public transport and GIS.
