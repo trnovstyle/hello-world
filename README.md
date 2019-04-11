@@ -2,4 +2,4 @@
 
 Hello!
 
-Simon here. I like traffic moddeling, public transport and GIS.
+Simon here. I like sustainable urban mobility, public transport and GIS.
